@@ -1,0 +1,4 @@
+Luis;Alvarez;10;15
+Karen;Torres;5;18
+Joshy;Vera;20;20
+Gaby;Castillo;13;1
