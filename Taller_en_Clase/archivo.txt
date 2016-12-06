@@ -1,0 +1,14 @@
+*********COMERCIAL DE VENTAS Y REVENTAS*******
+
+NOMBRE: Karen 
+CIUDAD: Loja
+============================================
+PRODUCTO			CANTIDAD		PRECIO
+Arroz       			2		5,00
+Aceite      			4		5,20
+Sal         			1		1,00
+=============================================
+
+					SUBTOTAL: 11,20
+						IVA: 1,57
+					   TOTAL: 12,77
